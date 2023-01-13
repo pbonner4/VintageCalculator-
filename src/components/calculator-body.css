@@ -1,0 +1,19 @@
+#background-calculator {
+  background-color: #d8d6c3;
+  display: flex;
+
+  border-radius: 25px;
+}
+
+.calculator-body {
+  margin: 210px 5px 15px 635px;
+  height: 500px;
+  width: 500px;
+  border: 5px solid #e0dbc4;
+  border-radius: 25px;
+  position: absolute;
+}
+
+.button-box {
+  border: 5px solid black;
+}
